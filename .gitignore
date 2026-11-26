@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+*.env
+*.json
+*.txt
+*.png
+ES__1m_10c_2s_Open
+ES_Granular/
